@@ -22,3 +22,6 @@ function generateCat(){
     image.src = "https://api.thecatapi.com/api/images/get?format=src&type=gif&size=small";
     div.appendChild(image);
 }
+
+
+//Challange 3: Rock, Paper, Scissors
